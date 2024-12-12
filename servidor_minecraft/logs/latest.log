@@ -42,3 +42,91 @@
 [12Dec2024 01:35:40.768] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5011 ms
 [12Dec2024 01:35:40.769] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (7.678s)! For help, type "help"
 [12Dec2024 01:35:40.794] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[12Dec2024 01:46:22.035] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TicianoDev[/127.208.108.115:56167] logged in with entity id 179 at (-336.4269121845986, 71.0, -173.8958645602148)
+[12Dec2024 01:46:22.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TicianoDev joined the game
+[12Dec2024 01:48:16.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /advancement (grant|revoke)
+[12Dec2024 01:48:16.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /attribute <target> <attribute> (get|base|modifier)
+[12Dec2024 01:48:16.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
+[12Dec2024 01:48:16.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /bossbar (add|remove|list|set|get)
+[12Dec2024 01:48:16.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clear [<targets>]
+[12Dec2024 01:48:16.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clone (<begin>|from)
+[12Dec2024 01:48:16.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /damage <target> <amount> [<damageType>]
+[12Dec2024 01:48:16.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /data (merge|get|remove|modify)
+[12Dec2024 01:48:16.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /datapack (enable|disable|list)
+[12Dec2024 01:48:16.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /debug (start|stop|function)
+[12Dec2024 01:48:16.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /defaultgamemode <gamemode>
+[12Dec2024 01:48:16.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /difficulty [peaceful|easy|normal|hard]
+[12Dec2024 01:48:16.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /effect (clear|give)
+[12Dec2024 01:48:16.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /me <action>
+[12Dec2024 01:48:16.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /enchant <targets> <enchantment> [<level>]
+[12Dec2024 01:48:16.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /experience (add|set|query)
+[12Dec2024 01:48:16.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /xp -> experience
+[12Dec2024 01:48:16.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
+[12Dec2024 01:48:16.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fillbiome <from> <to> <biome> [replace]
+[12Dec2024 01:48:16.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forceload (add|remove|query)
+[12Dec2024 01:48:16.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /function <name>
+[12Dec2024 01:48:16.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamemode <gamemode> [<target>]
+[12Dec2024 01:48:16.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamerule (announceAdvancements|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersSleepingPercentage|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnRadius|spectatorsGenerateChunks|tntExplosionDropDecay|universalAnger|waterSourceConversion)
+[12Dec2024 01:48:16.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /give <targets> <item> [<count>]
+[12Dec2024 01:48:16.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /help [<command>]
+[12Dec2024 01:48:16.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /item (replace|modify)
+[12Dec2024 01:48:16.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kick <targets> [<reason>]
+[12Dec2024 01:48:16.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kill [<targets>]
+[12Dec2024 01:48:16.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /list [uuids]
+[12Dec2024 01:48:16.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /locate (structure|biome|poi)
+[12Dec2024 01:48:16.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /loot (replace|insert|give|spawn)
+[12Dec2024 01:48:16.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /msg <targets> <message>
+[12Dec2024 01:48:16.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tell -> msg
+[12Dec2024 01:48:16.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /w -> msg
+[12Dec2024 01:48:16.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /particle <name> [<pos>]
+[12Dec2024 01:48:16.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /place (feature|jigsaw|structure|template)
+[12Dec2024 01:48:16.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
+[12Dec2024 01:48:16.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /reload
+[12Dec2024 01:48:16.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /recipe (give|take)
+[12Dec2024 01:48:16.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /return <value>
+[12Dec2024 01:48:16.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ride <target> (mount|dismount)
+[12Dec2024 01:48:16.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /say <message>
+[12Dec2024 01:48:16.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /schedule (function|clear)
+[12Dec2024 01:48:16.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /scoreboard (objectives|players)
+[12Dec2024 01:48:16.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /seed
+[12Dec2024 01:48:16.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setblock <pos> <block> [destroy|keep|replace]
+[12Dec2024 01:48:16.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spawnpoint [<targets>]
+[12Dec2024 01:48:16.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setworldspawn [<pos>]
+[12Dec2024 01:48:16.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spectate [<target>]
+[12Dec2024 01:48:16.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[12Dec2024 01:48:16.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[12Dec2024 01:48:16.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /summon <entity> [<pos>]
+[12Dec2024 01:48:16.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tag <targets> (add|remove|list)
+[12Dec2024 01:48:16.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /team (list|add|remove|empty|join|leave|modify)
+[12Dec2024 01:48:16.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /teammsg <message>
+[12Dec2024 01:48:16.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tm -> teammsg
+[12Dec2024 01:48:16.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /teleport (<location>|<destination>|<targets>)
+[12Dec2024 01:48:16.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tp -> teleport
+[12Dec2024 01:48:16.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tellraw <targets> <message>
+[12Dec2024 01:48:16.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /time (set|add|query)
+[12Dec2024 01:48:16.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[12Dec2024 01:48:16.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /trigger <objective> [add|set]
+[12Dec2024 01:48:16.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /weather (clear|rain|thunder)
+[12Dec2024 01:48:16.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /worldborder (add|set|center|damage|get|warning)
+[12Dec2024 01:48:16.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /jfr (start|stop)
+[12Dec2024 01:48:16.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ban-ip <target> [<reason>]
+[12Dec2024 01:48:16.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /banlist [ips|players]
+[12Dec2024 01:48:16.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ban <targets> [<reason>]
+[12Dec2024 01:48:16.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /deop <targets>
+[12Dec2024 01:48:16.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /op <targets>
+[12Dec2024 01:48:16.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pardon <targets>
+[12Dec2024 01:48:16.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pardon-ip <target>
+[12Dec2024 01:48:16.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /perf (start|stop)
+[12Dec2024 01:48:16.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-all [flush]
+[12Dec2024 01:48:16.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-off
+[12Dec2024 01:48:16.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-on
+[12Dec2024 01:48:16.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setidletimeout <minutes>
+[12Dec2024 01:48:16.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /stop
+[12Dec2024 01:48:16.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /whitelist (on|off|list|add|remove|reload)
+[12Dec2024 01:48:16.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forge (tps|track|entity|generate|dimensions|mods|tags)
+[12Dec2024 01:48:16.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /config showfile <mod> <type>
+[12Dec2024 01:48:31.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made TicianoDev a server operator
+[12Dec2024 01:48:40.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TicianoDev: Set the time to 1000]
+[12Dec2024 01:48:50.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TicianoDev: Set own game mode to Spectator Mode]
+[12Dec2024 01:48:59.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TicianoDev: Set own game mode to Creative Mode]
+[12Dec2024 01:49:02.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TicianoDev: Set own game mode to Survival Mode]
