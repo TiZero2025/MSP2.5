@@ -701,3 +701,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [12Dec2024 01:49:02.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TicianoDev: Set own game mode to Survival Mode]
 [12Dec2024 01:50:40.770] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [12Dec2024 01:50:40.783] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 01:55:40.776] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 01:55:40.865] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 01:57:38.354] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TicianoDev lost connection: Disconnected
+[12Dec2024 01:57:38.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TicianoDev left the game
+[12Dec2024 02:00:40.761] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 02:00:40.767] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

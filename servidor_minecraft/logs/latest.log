@@ -130,3 +130,5 @@
 [12Dec2024 01:48:50.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TicianoDev: Set own game mode to Spectator Mode]
 [12Dec2024 01:48:59.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TicianoDev: Set own game mode to Creative Mode]
 [12Dec2024 01:49:02.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TicianoDev: Set own game mode to Survival Mode]
+[12Dec2024 01:57:38.354] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TicianoDev lost connection: Disconnected
+[12Dec2024 01:57:38.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TicianoDev left the game
