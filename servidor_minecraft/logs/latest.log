@@ -3210,3 +3210,146 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'theabys
 [13Dec2024 23:26:42.531] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=209, y=-33, z=-277}
 [13Dec2024 23:26:42.630] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=551, y=5, z=-76}
 [13Dec2024 23:26:42.674] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=559, y=-20, z=109}
+[13Dec2024 23:28:49.239] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=361, y=84, z=-92}
+[13Dec2024 23:28:49.373] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=361, y=85, z=-92}
+[13Dec2024 23:29:03.974] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TicianoDev[/127.208.108.115:40845] logged in with entity id 1778 at (353.5, 71.0, -93.5)
+[13Dec2024 23:29:04.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TicianoDev joined the game
+[13Dec2024 23:29:04.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TicianoDev has made the advancement [Christmas]
+[13Dec2024 23:29:04.095] [Server thread/INFO] [Jade/]: Syncing config to TicianoDev (87f9ed1c-982a-3b11-85a1-b9bb1c2f23c0)
+[13Dec2024 23:29:05.974] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TicianoDev (18)
+[13Dec2024 23:29:05.975] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TicianoDev
+[13Dec2024 23:29:06.874] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=357, y=85, z=-91}
+[13Dec2024 23:29:34.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown game mode: Fel1_Gl
+[13Dec2024 23:29:35.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...de Fel1_Gl survival<--[HERE]
+[13Dec2024 23:29:42.623] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=361, y=85, z=-92}
+[13Dec2024 23:30:20.327] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=466, y=-36, z=-298}
+[13Dec2024 23:30:22.291] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=157, y=-48, z=20}
+[13Dec2024 23:30:43.672] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=361, y=84, z=-93}
+[13Dec2024 23:30:48.872] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=361, y=85, z=-92}
+[13Dec2024 23:30:49.224] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=362, y=84, z=-92}
+[13Dec2024 23:30:53.023] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=357, y=85, z=-91}
+[13Dec2024 23:30:53.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made ticianom a server operator
+[13Dec2024 23:30:55.863] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=358, y=84, z=-91}
+[13Dec2024 23:31:41.772] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=364, y=85, z=-94}
+[13Dec2024 23:31:41.872] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=364, y=85, z=-93}
+[13Dec2024 23:32:02.663] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TicianoDev lost connection: Disconnected
+[13Dec2024 23:32:02.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TicianoDev left the game
+[13Dec2024 23:32:02.667] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TicianoDev
+[13Dec2024 23:32:20.643] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TicianoDev[/127.208.108.115:54167] logged in with entity id 2310 at (379.9957997128547, 72.0, -95.55412961776808)
+[13Dec2024 23:32:20.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TicianoDev joined the game
+[13Dec2024 23:32:20.708] [Server thread/INFO] [Jade/]: Syncing config to TicianoDev (87f9ed1c-982a-3b11-85a1-b9bb1c2f23c0)
+[13Dec2024 23:32:21.130] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TicianoDev (18)
+[13Dec2024 23:32:21.130] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TicianoDev
+[13Dec2024 23:32:31.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TicianoDev was slain by Spider
+[13Dec2024 23:32:31.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TicianoDev has made the advancement [Your First Grave]
+[13Dec2024 23:32:31.173] [Server thread/INFO] [tombstone/]: The player TicianoDev has successfully been saved
+[13Dec2024 23:32:34.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TicianoDev has made the advancement [The Most Useful Key]
+[13Dec2024 23:32:41.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TicianoDev: Set own game mode to Creative Mode]
+[13Dec2024 23:33:05.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TicianoDev: Set own game mode to Survival Mode]
+[13Dec2024 23:33:22.975] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=360, y=81, z=-94}
+[13Dec2024 23:33:23.022] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=361, y=81, z=-94}
+[13Dec2024 23:33:25.872] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=365, y=80, z=-91}
+[13Dec2024 23:33:28.371] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=363, y=81, z=-92}
+[13Dec2024 23:33:31.121] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=363, y=82, z=-93}
+[13Dec2024 23:33:31.171] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=365, y=80, z=-91}
+[13Dec2024 23:34:48.821] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=362, y=80, z=-94}
+[13Dec2024 23:34:55.932] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=361, y=82, z=-92}
+[13Dec2024 23:34:58.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fel1_Gl has made the advancement [Alex's Mobs]
+[13Dec2024 23:39:27.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TicianoDev: Set Fel1_Gl's game mode to Creative Mode]
+[13Dec2024 23:39:34.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TicianoDev: Set Fel1_Gl's game mode to Survival Mode]
+[13Dec2024 23:39:56.270] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=361, y=81, z=-93}
+[13Dec2024 23:39:57.869] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=361, y=82, z=-92}
+[13Dec2024 23:39:59.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TicianoDev: Teleported TicianoDev to Fel1_Gl]
+[13Dec2024 23:39:59.518] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=361, y=82, z=-92}
+[13Dec2024 23:40:06.118] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=361, y=82, z=-92}
+[13Dec2024 23:40:13.870] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=361, y=82, z=-92}
+[13Dec2024 23:40:13.919] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=364, y=81, z=-93}
+[13Dec2024 23:40:18.169] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=361, y=81, z=-92}
+[13Dec2024 23:40:18.318] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=361, y=80, z=-93}
+[13Dec2024 23:40:23.360] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fel1_Gl lost connection: Disconnected
+[13Dec2024 23:40:23.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fel1_Gl left the game
+[13Dec2024 23:40:23.361] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Fel1_Gl
+[13Dec2024 23:40:40.835] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fel1_Gl[/127.205.53.1:32983] logged in with entity id 3301 at (360.8181681711852, 81.0, -92.30000001192093)
+[13Dec2024 23:40:40.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fel1_Gl joined the game
+[13Dec2024 23:40:40.906] [Server thread/INFO] [Jade/]: Syncing config to Fel1_Gl (d43ba8bb-7591-38f8-85df-6b93cbc52005)
+[13Dec2024 23:40:41.482] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Fel1_Gl (18)
+[13Dec2024 23:40:41.483] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Fel1_Gl
+[13Dec2024 23:40:59.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TicianoDev: Set Fel1_Gl's game mode to Creative Mode]
+[13Dec2024 23:41:11.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TicianoDev: Set Fel1_Gl's game mode to Survival Mode]
+[13Dec2024 23:41:19.968] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=359, y=81, z=-90}
+[13Dec2024 23:41:20.118] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=359, y=81, z=-91}
+[13Dec2024 23:41:20.268] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=359, y=81, z=-90}
+[13Dec2024 23:41:38.419] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=363, y=78, z=-101}
+[13Dec2024 23:41:38.469] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=362, y=78, z=-100}
+[13Dec2024 23:42:25.567] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=363, y=76, z=-99}
+[13Dec2024 23:42:25.617] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=364, y=76, z=-99}
+[13Dec2024 23:43:16.367] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=363, y=76, z=-99}
+[13Dec2024 23:43:18.319] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=364, y=76, z=-99}
+[13Dec2024 23:43:21.017] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=362, y=76, z=-98}
+[13Dec2024 23:43:21.817] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=362, y=75, z=-99}
+[13Dec2024 23:43:23.267] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=363, y=76, z=-99}
+[13Dec2024 23:43:43.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TicianoDev: Set own game mode to Creative Mode]
+[13Dec2024 23:43:45.215] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=142, y=-48, z=24}
+[13Dec2024 23:43:45.216] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=130, y=-53, z=46}
+[13Dec2024 23:43:45.216] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=137, y=-48, z=46}
+[13Dec2024 23:43:45.216] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=141, y=-53, z=39}
+[13Dec2024 23:43:45.216] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=143, y=-48, z=45}
+[13Dec2024 23:43:53.548] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=213, y=33, z=-315}
+[13Dec2024 23:43:53.645] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=206, y=31, z=-312}
+[13Dec2024 23:43:56.193] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=350, y=31, z=-342}
+[13Dec2024 23:44:00.614] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=309, y=30, z=-353}
+[13Dec2024 23:44:02.818] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TicianoDev moved too quickly! -2.943479506828851,0.0,-10.249379938959123
+[13Dec2024 23:44:17.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TicianoDev: Teleported Fel1_Gl to TicianoDev]
+[13Dec2024 23:44:18.720] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=357, y=-4, z=-414}
+[13Dec2024 23:44:20.027] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=364, y=-17, z=-480}
+[13Dec2024 23:44:21.688] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=205, y=-10, z=-484}
+[13Dec2024 23:44:27.174] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=114, y=-21, z=-326}
+[13Dec2024 23:44:27.773] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=105, y=-13, z=-326}
+[13Dec2024 23:44:36.383] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5422, y=81, z=-9004}
+[13Dec2024 23:44:36.385] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9009}
+[13Dec2024 23:44:36.385] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9007}
+[13Dec2024 23:44:36.385] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9008}
+[13Dec2024 23:44:36.386] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9001}
+[13Dec2024 23:44:36.386] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9000}
+[13Dec2024 23:44:36.386] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-8999}
+[13Dec2024 23:44:37.426] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=68, y=-32, z=-443}
+[13Dec2024 23:44:43.635] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=55, y=-42, z=-238}
+[13Dec2024 23:44:45.429] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=49, y=-44, z=-205}
+[13Dec2024 23:44:53.461] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=130, y=18, z=-566}
+[13Dec2024 23:46:26.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TicianoDev: Set own game mode to Survival Mode]
+[13Dec2024 23:46:45.709] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Dec2024 23:46:45.810] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Dec2024 23:46:45.913] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Dec2024 23:46:46.008] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Dec2024 23:46:46.111] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Dec2024 23:46:46.210] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Dec2024 23:46:46.309] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Dec2024 23:46:46.408] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Dec2024 23:46:46.507] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Dec2024 23:46:46.612] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Dec2024 23:46:46.707] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Dec2024 23:46:46.809] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Dec2024 23:46:46.910] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Dec2024 23:46:47.010] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Dec2024 23:46:47.124] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Dec2024 23:46:47.220] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Dec2024 23:46:47.319] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Dec2024 23:46:47.417] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Dec2024 23:46:47.518] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Dec2024 23:46:47.634] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Dec2024 23:46:47.720] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Dec2024 23:46:47.811] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Dec2024 23:46:47.916] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Dec2024 23:46:48.015] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Dec2024 23:46:48.119] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Dec2024 23:46:48.215] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Dec2024 23:46:48.320] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Dec2024 23:47:08.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TicianoDev: Set own game mode to Creative Mode]
+[13Dec2024 23:47:16.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TicianoDev has made the advancement [Getting an Upgrade]
+[13Dec2024 23:47:20.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TicianoDev: Set own game mode to Survival Mode]
+[13Dec2024 23:47:42.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TicianoDev: Set own game mode to Creative Mode]
+[13Dec2024 23:47:46.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TicianoDev has made the advancement [Isn't It Iron Pick]
+[13Dec2024 23:47:53.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TicianoDev: Set own game mode to Survival Mode]
+[13Dec2024 23:48:41.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TicianoDev: Set own game mode to Creative Mode]
+[13Dec2024 23:48:44.028] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=30, y=-39, z=-523}
+[13Dec2024 23:48:45.632] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=355, y=-13, z=-589}
