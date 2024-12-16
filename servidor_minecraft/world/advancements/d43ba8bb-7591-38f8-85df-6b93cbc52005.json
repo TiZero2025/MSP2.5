@@ -2513,90 +2513,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-16 00:24:59 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
-    "criteria": {
-      "has_chicken": "2024-12-16 00:18:39 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-16 00:24:59 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/tools/spyglass": {
-    "criteria": {
-      "has_amethyst_shard": "2024-12-16 00:06:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/target": {
-    "criteria": {
-      "has_hay_block": "2024-12-16 00:04:06 +0000"
-    },
-    "done": true
-  },
-  "bosses_of_mass_destruction:recipes/void_lily": {
-    "criteria": {
-      "has_amethyst_shard": "2024-12-16 00:06:13 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-16 00:24:59 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
-    "criteria": {
-      "has_amethyst_shard": "2024-12-16 00:06:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/tinted_glass": {
-    "criteria": {
-      "has_amethyst_shard": "2024-12-16 00:06:13 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:adventure/find_tavern": {
-    "criteria": {
-      "nova_structures:tavern_jungle": "2024-12-16 00:12:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
-    "criteria": {
-      "has_chicken": "2024-12-16 00:18:39 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-16 00:24:59 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-16 00:24:59 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-16 00:24:59 +0000"
-    },
-    "done": false
-  },
   "tombstone:adventure/mysterious_gift": {
     "criteria": {
       "coded_trigger": "2024-12-16 00:00:21 +0000"
@@ -2609,15 +2525,15 @@
     },
     "done": false
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "minecraft:recipes/redstone/target": {
     "criteria": {
-      "log_spam_fixer": "2024-12-16 00:24:59 +0000"
+      "has_hay_block": "2024-12-16 00:04:06 +0000"
     },
-    "done": false
+    "done": true
   },
-  "minecraft:recipes/food/cooked_chicken": {
+  "minecraft:recipes/misc/wheat": {
     "criteria": {
-      "has_chicken": "2024-12-16 00:18:39 +0000"
+      "has_hay_block": "2024-12-16 00:04:06 +0000"
     },
     "done": true
   },
@@ -2627,45 +2543,27 @@
     },
     "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "minecraft:recipes/tools/spyglass": {
     "criteria": {
-      "log_spam_fixer": "2024-12-16 00:24:59 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-16 00:24:59 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-16 00:24:59 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-16 00:24:59 +0000"
-    },
-    "done": false
-  },
-  "nova_structures:root": {
-    "criteria": {
-      "nova_structures:adventure/find_tavern": "2024-12-16 00:12:26 +0000"
+      "has_amethyst_shard": "2024-12-16 00:06:13 +0000"
     },
     "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "bosses_of_mass_destruction:recipes/void_lily": {
     "criteria": {
-      "log_spam_fixer": "2024-12-16 00:24:59 +0000"
+      "has_amethyst_shard": "2024-12-16 00:06:13 +0000"
     },
-    "done": false
+    "done": true
   },
-  "nova_structures:adventure/tavern_quest": {
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
     "criteria": {
-      "open_tavern_chest": "2024-12-16 00:13:00 +0000"
+      "has_amethyst_shard": "2024-12-16 00:06:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-16 00:06:13 +0000"
     },
     "done": true
   },
@@ -2681,9 +2579,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/wheat": {
+  "nova_structures:adventure/find_tavern": {
     "criteria": {
-      "has_hay_block": "2024-12-16 00:04:06 +0000"
+      "nova_structures:tavern_jungle": "2024-12-16 00:12:26 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2024-12-16 00:12:26 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/tavern_quest": {
+    "criteria": {
+      "open_tavern_chest": "2024-12-16 00:13:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-12-16 00:18:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-12-16 00:18:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-12-16 00:18:39 +0000"
     },
     "done": true
   },
