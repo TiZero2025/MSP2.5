@@ -11985,3 +11985,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'theabys
 [16Dec2024 01:53:03.075] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10008ms or 200 ticks behind
 [16Dec2024 01:53:18.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TicianoDev has made the advancement [Call For Adventure]
 [16Dec2024 01:53:18.982] [Server thread/DEBUG] [mixin/]: Mixing MapDecorationMixin from alexscaves.mixins.json into net.minecraft.world.level.saveddata.maps.MapDecoration
+[16Dec2024 01:56:48.326] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Dec2024 01:56:48.522] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Dec2024 01:58:20.068] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=852, y=84, z=752}
+[16Dec2024 01:58:29.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TicianoDev: Set the time to 1000]
+[16Dec2024 01:58:34.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TicianoDev: Set own game mode to Creative Mode]
+[16Dec2024 02:01:48.281] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Dec2024 02:01:48.302] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

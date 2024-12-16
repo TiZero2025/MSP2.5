@@ -2942,3 +2942,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'theabys
 [16Dec2024 01:53:03.073] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TicianoDev moved too quickly! -4.415087206120575,-1.0,-8.93924252536658
 [16Dec2024 01:53:03.075] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10008ms or 200 ticks behind
 [16Dec2024 01:53:18.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TicianoDev has made the advancement [Call For Adventure]
+[16Dec2024 01:58:20.068] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=852, y=84, z=752}
+[16Dec2024 01:58:29.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TicianoDev: Set the time to 1000]
+[16Dec2024 01:58:34.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TicianoDev: Set own game mode to Creative Mode]
