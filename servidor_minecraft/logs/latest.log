@@ -2945,3 +2945,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'theabys
 [16Dec2024 01:58:20.068] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=852, y=84, z=752}
 [16Dec2024 01:58:29.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TicianoDev: Set the time to 1000]
 [16Dec2024 01:58:34.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TicianoDev: Set own game mode to Creative Mode]
+[16Dec2024 02:08:22.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TicianoDev: Set the time to 1000]
